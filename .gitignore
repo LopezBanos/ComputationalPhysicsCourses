@@ -25,3 +25,4 @@ node_modules
 # Ignora Directorios
 .idea/
 .git/
+Test/
