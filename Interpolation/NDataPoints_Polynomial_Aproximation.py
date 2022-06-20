@@ -11,7 +11,6 @@ for each value i-th of data point.
 # Import package
 import numpy as np
 import matplotlib.pyplot as plt
-from scipy import interpolate
 # Just for macOS plots
 import matplotlib as mpl
 mpl.use('macosx')
