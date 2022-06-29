@@ -13,15 +13,20 @@ import matplotlib.pyplot as plt
 import matplotlib as mpl
 mpl.use('macosx')
 
-# PARAMETERS
-n_max = 200       # Numbers of iterations
+##############
+# PARAMETERS #
+##############
+n_max = 200      # Numbers of iterations
 h = 0.1          # Step Size
 yo = 1           # Initial Condition
 y = 1            # Initialize the variable
 test_t = np.linspace(0, n_max*h, n_max)
 t_values = [0]   # The first value of t is zero.
-y_values = [1]   # The first value of y is yo.
-# Analytical solution:
+y_values = [yo]   # The first value of y is yo.
+
+########################
+# Analytical solution  #
+########################
 
 
 def rad_decay_theo(initial_condition, time):
@@ -33,7 +38,9 @@ def rad_decay_theo(initial_condition, time):
     return initial_condition * np.exp(-time)
 
 
-# Numerical Solution (Euler Method):
+#####################################
+# Numerical Solution (Euler Method) #
+#####################################
 for i in range(1, n_max + 1):
     f = -y
     y = y + f * h
@@ -41,8 +48,10 @@ for i in range(1, n_max + 1):
     y_values.append(y)
 
 print("--- %s seconds ---" % (time.time() - start_time))
+
+
 # -------------- #
-#  Plot Section
+#  Plot Section  #
 # -------------- #
 # Set Background style
 plt.style.use('dark_background')
