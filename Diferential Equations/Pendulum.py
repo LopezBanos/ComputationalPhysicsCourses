@@ -23,10 +23,10 @@ c = g / length
 b = 1
 
 # Parameters
-n_max = 200          # Numbers of iterations
-h = 0.1             # Step Size
+n_max = 200            # Numbers of iterations
+h = 0.1                # Step Size
 theta_0 = 0.2          # Initial Condition
-theta_1 = 0          # Initial Derivative Condition
+theta_1 = 0            # Initial Derivative Condition
 test_t = np.linspace(0, n_max*h, n_max)
 g = 9.81  # [m / s**2]
 
