@@ -58,7 +58,7 @@ def f(time, y):
 
 
 # Call the Euler Method
-solution = euler_ode(f, 0, 1, 200, 0.01)
+solution = euler_ode(f, 0, 1, n_max, h)
 
 # -------------- #
 #  Plot Section  #
