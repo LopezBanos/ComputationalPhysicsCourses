@@ -72,7 +72,7 @@ fig = plt.figure()
 # Analytical and Numerical Solution
 plt.title('Time-Amplified Radioactive Decay', fontsize=14)
 plt.xlabel('Time [s]', fontsize=14)
-plt.ylabel("Solution of differential equation: y' = -y ", fontsize=14)
+plt.ylabel(r"Solution of differential equation: $y' = -a\cdot t \cdot y$", fontsize=14)
 plt.scatter(solution[0], solution[1], label='Numerical Solution')
 plt.plot(test_t, rad_decay_theo(yo, test_t), color='#FB5959', label='Analytical Solution')
 plt.legend(fontsize=14)
