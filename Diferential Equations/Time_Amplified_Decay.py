@@ -22,7 +22,7 @@ parameter = 0.01
 
 def rad_decay_theo(initial_condition, time):
     """
-    :param initial_condition: Initial condition of the diferential equation problem
+    :param initial_condition: Initial condition of the differential equation problem
     :param time: Argument of the function
     :return: The solution of y' = -y
     """
