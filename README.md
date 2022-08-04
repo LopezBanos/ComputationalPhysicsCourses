@@ -13,6 +13,12 @@ for me it's the fanciest and geek way of plotting stuff.
 
 ## Series Expansion, Interpolation and Data Fitting
 
+|<img src="https://github.com/LopezBanos/ComputationalPhysicsCourses/blob/master/Interpolation/Images/General_fit_method.png" width="100%">|<img src="https://github.com/LopezBanos/ComputationalPhysicsCourses/blob/master/Interpolation/Images/SplineMethod.png" width="100%">
+|:--------------------:|:--------------------:|
+`NDataPoints_Polynomial_Aproximation.py` | `Interpolation.py` |
+[Link to the example](https://github.com/LopezBanos/ComputationalPhysicsCourses/blob/master/Interpolation/NDataPoints_Polynomial_Aproximation.py)| [Link to the example](https://github.com/LopezBanos/ComputationalPhysicsCourses/blob/master/Interpolation/Interpolation.py)|
+
+
 ## Derivatives
 
 ## Integrals
