@@ -95,5 +95,5 @@ axs[1].plot(x_array, analytical_derivative - forward_array, label='Analytical - 
 axs[1].plot(x_array, analytical_derivative - backward_array, label='Analytical - Backwards Differences')
 axs[1].plot(x_array, analytical_derivative - central_array, label='Analytical - Central Differences')
 axs[1].plot(x_array, analytical_derivative - richardson_array, label='Analytical - Richardson Method')
-plt.legend(fontsize=13)
+plt.legend()
 plt.show()
