@@ -32,8 +32,12 @@ Two main programs were developed in this section, the first one produce some lin
 [Link to the example](https://github.com/LopezBanos/ComputationalPhysicsCourses/blob/master/Derivatives/Gradient_Divergence_Curl.py)| [Link to the example](https://github.com/LopezBanos/ComputationalPhysicsCourses/blob/master/Derivatives/Gradient_Divergence_Curl.py)|
 
 ## Integrals
-
+|<img src="https://github.com/LopezBanos/ComputationalPhysicsCourses/blob/master/Integrals/images/ContourLine.png" width="100%"  height="100%">|<img src="https://github.com/LopezBanos/ComputationalPhysicsCourses/blob/master/Integrals/images/VectorPotential.png"   width="100%"  height="60%">
+|:--------------------:|:--------------------:|
+`Magnetic_field_wire.py` | `Magnetic_field_wire.py` |
+[Link to the example](https://github.com/LopezBanos/ComputationalPhysicsCourses/blob/master/Integrals/Magnetic_field_wire.py)| [Link to the example](https://github.com/LopezBanos/ComputationalPhysicsCourses/blob/master/Integrals/Magnetic_field_wire.py)
 ## Differential Equations
+
 
 ## Eigenvalue Problems
 
