@@ -36,8 +36,23 @@ Two main programs were developed in this section, the first one produce some lin
 |:--------------------:|:--------------------:|
 `Magnetic_field_wire.py` | `Magnetic_field_wire.py` |
 [Link to the example](https://github.com/LopezBanos/ComputationalPhysicsCourses/blob/master/Integrals/Magnetic_field_wire.py)| [Link to the example](https://github.com/LopezBanos/ComputationalPhysicsCourses/blob/master/Integrals/Magnetic_field_wire.py)
-## Differential Equations
 
+## Differential Equations
+|<img src="https://github.com/LopezBanos/ComputationalPhysicsCourses/blob/master/Diferential%20Equations/Images/ErrorComparison.png" width="100%"  >|<img src="https://github.com/LopezBanos/ComputationalPhysicsCourses/blob/master/Diferential%20Equations/Images/ZoomInErrorComparison.png"   width="100%" >
+|:--------------------:|:--------------------:|
+`Different_methods.py` | `Different_methods.py` |
+[Link to the example](https://github.com/LopezBanos/ComputationalPhysicsCourses/blob/master/Diferential%20Equations/Different_methods.py)| [Link to the example](https://github.com/LopezBanos/ComputationalPhysicsCourses/blob/master/Diferential%20Equations/Different_methods.py)
+
+|<img src="https://github.com/LopezBanos/ComputationalPhysicsCourses/blob/master/Diferential%20Equations/Images/RollingBallNoForces.png"   width="100%" >
+|:--------------------:|
+`RollingBall.py` | 
+[Link to the example](https://github.com/LopezBanos/ComputationalPhysicsCourses/blob/master/Diferential%20Equations/RollingBall.py)
+
+
+|<img src="https://github.com/LopezBanos/ComputationalPhysicsCourses/blob/master/Diferential%20Equations/Images/HeatEquationGradient.png" width="100%" >|<img src="https://github.com/LopezBanos/ComputationalPhysicsCourses/blob/master/Diferential%20Equations/Images/HeatEquationGradient_2D.png" width="100%">
+|:--------------------:|:--------------------:|
+`HeatEquation.py` | `HeatEquation.py` |
+[Link to the example](https://github.com/LopezBanos/ComputationalPhysicsCourses/blob/master/Diferential%20Equations/HeatEquation.py)| [Link to the example](https://github.com/LopezBanos/ComputationalPhysicsCourses/blob/master/Diferential%20Equations/HeatEquation.py)|
 
 ## Eigenvalue Problems
 
