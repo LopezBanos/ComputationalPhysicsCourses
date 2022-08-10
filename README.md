@@ -20,6 +20,16 @@ for me it's the fanciest and geek way of plotting stuff.
 
 
 ## Derivatives
+Two main programs were developed in this section, the first one produce some line plots and contain the most common derivative methods. The second one Gradient_Divergence_Curl.py apply the derivative methods (mostly Richardson method).
+|<img src="https://github.com/LopezBanos/ComputationalPhysicsCourses/blob/master/Derivatives/Images/NumericalDerivatives.png" width="100%">
+|:--------------------:|
+`numerical_implementation.py`
+[Link to the example](https://github.com/LopezBanos/ComputationalPhysicsCourses/blob/master/Derivatives/numerical_implementation.py)|
+
+|<img src="https://github.com/LopezBanos/ComputationalPhysicsCourses/blob/master/Derivatives/Images/ScalarFunctionpng.png" width="200%">|<img src="https://github.com/LopezBanos/ComputationalPhysicsCourses/blob/master/Derivatives/Images/VectorialFunction.png" width="100%">
+|:--------------------:|:--------------------:|
+`Gradient_Divergence_Curl.py` | `Gradient_Divergence_Curl.py` |
+[Link to the example](https://github.com/LopezBanos/ComputationalPhysicsCourses/blob/master/Derivatives/Gradient_Divergence_Curl.py)| [Link to the example](https://github.com/LopezBanos/ComputationalPhysicsCourses/blob/master/Derivatives/Gradient_Divergence_Curl.py)|
 
 ## Integrals
 
